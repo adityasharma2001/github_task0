@@ -1,3 +1,9 @@
-git clone //to clone the repo to local
+git clone //to clone the repo from remote to local
 
 git branch <branch_name> // to create branch firstname_lastname
+
+git add . // to add the changes from working area to staging area
+
+git commit -m // to commit changes to local
+
+  
